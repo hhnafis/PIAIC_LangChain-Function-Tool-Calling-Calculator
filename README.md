@@ -3,6 +3,6 @@ This project demonstrates building a conversational agent in Google Colab using 
 
 
 # Features
-Conversational agent built with LangChain
-Integration with the Google Gemini model
+Conversational agent built with LangChain----
+Integration with the Google Gemini model----
 Custom calculator tool for performing mathematical calculations
